@@ -1,4 +1,5 @@
 import './App.css';
+import Materialui from './materialui';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
             Learn React
           </a>
         </p>
+        <Materialui/>
       </header>
     </div>
   );
